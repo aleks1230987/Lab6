@@ -1,0 +1,3 @@
+﻿  Pizzeria.cpp
+C:\Users\user\Desktop\Pizzeria\Pizzeria\Pizzeria.cpp(168,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Pizzeria.vcxproj -> C:\Users\user\Desktop\Pizzeria\x64\Debug\Pizzeria.exe
